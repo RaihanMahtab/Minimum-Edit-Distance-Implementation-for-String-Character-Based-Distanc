@@ -1,5 +1,5 @@
 # Minimum-Edit-Distance-Implementation-for-String (Character Based Distance)
-Implementation of Minimum Edit Distance Algorithm from scratch in Python. Minimum Edit Distance Calculates the distance between two strings
+Implementation of Minimum Edit Distance Algorithm from scratch in Python. Minimum Edit Distance Calculates the distance between two strings Character Based Distance
 <h3>Levenshtein Distance</h3>
 – No. of edits between two words/strings
 – Costs
@@ -19,6 +19,7 @@ Set the cost in .ipynb file in following cell:
     
 Then pass the strings in Function Parameter. It will output the minimun edit distance between the strings. There are two params in function source string and destination string
 
+      #Character Based Distance
       def Calculate_Minimum_edit_distance(source,target):    
           n= len(source)
           m= len(target)
