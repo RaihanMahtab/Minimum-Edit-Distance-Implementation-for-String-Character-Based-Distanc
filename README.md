@@ -1,4 +1,4 @@
-# Minimum-Edit-Distance-Implementation-for-String
+# Minimum-Edit-Distance-Implementation-for-String (Character Based Distance)
 Implementation of Minimum Edit Distance Algorithm from scratch in Python. Minimum Edit Distance Calculates the distance between two strings
 <h3>Levenshtein Distance</h3>
 – No. of edits between two words/strings
